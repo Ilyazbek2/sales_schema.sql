@@ -1,1 +1,1 @@
-# sales_schema.sql
+\ sql-sales-analysis
